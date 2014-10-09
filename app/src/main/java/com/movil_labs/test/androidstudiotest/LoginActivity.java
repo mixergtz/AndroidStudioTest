@@ -60,6 +60,7 @@ public class LoginActivity extends Activity implements LoaderCallbacks<Cursor>{
 
 
         //This is a comment to Test Git commits
+        //Comment from Mac
 
         // Set up the login form.
         mEmailView = (AutoCompleteTextView) findViewById(R.id.email);
